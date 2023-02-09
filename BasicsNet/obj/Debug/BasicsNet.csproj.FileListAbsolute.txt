@@ -1,0 +1,8 @@
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\bin\Debug\BasicsNet.exe.config
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\bin\Debug\BasicsNet.exe
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\bin\Debug\BasicsNet.pdb
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\obj\Debug\BasicsNet.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\obj\Debug\BasicsNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\obj\Debug\BasicsNet.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\obj\Debug\BasicsNet.exe
+C:\Users\promact\source\repos\BasicsNet\BasicsNet\obj\Debug\BasicsNet.pdb
