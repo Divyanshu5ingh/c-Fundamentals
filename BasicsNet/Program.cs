@@ -7,23 +7,26 @@ using System.Threading.Tasks;
 namespace BasicsNet
 {
     class Program
-    {
-        public static int overload(int a, int b)
-        {
-            return a + b;
-        }
-        public static int overload(int a, int b, int c)
-        {
-            return a + b + c;
-        }
-        
+    {            
        
         public static void Main(string[] args)
         {
-            Console.WriteLine(overload(5, 6));
-            Console.WriteLine(overload(1, 2, 3));
-           
-            
+            int[] a = new int[5];
+
+            for(int i = 0; i< a.Length;i++)
+            {
+                Console.WriteLine("Enter {0} array", i);
+                a[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            for (int i = 0; i < a.Length; i++)
+            {
+                Array.Sort(a);
+                Console.WriteLine(a[i]);
+            }
+
+
+
             Console.ReadKey();
         }
     }
